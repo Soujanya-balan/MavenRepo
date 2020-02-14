@@ -1,0 +1,21 @@
+# Default ignored files
+/workspace.xml
+/../src/test/java/AppTest.java
+/../target/surefire-reports/AppTest.txt
+/compiler.xml
+/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/libraries/Maven__junit_junit_4_12.xml
+/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+/../target/classes/mavenDemo.class
+/../MavenDemo.iml
+
+/../target/MavenDemo-1.0-SNAPSHOT.jar
+/misc.xml
+/modules.xml
+/../target/maven-archiver/pom.properties
+/../pom.xml
+/../target/surefire-reports/TEST-AppTest.xml
+/vcs.xml
